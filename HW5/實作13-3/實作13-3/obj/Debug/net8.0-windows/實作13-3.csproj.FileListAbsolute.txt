@@ -1,0 +1,16 @@
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.csproj.GenerateResource.cache
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.AssemblyInfoInputs.cache
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.AssemblyInfo.cs
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.csproj.CoreCompileInputs.cache
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13_3.Form1.resources
+D:\C#\實作13-3\實作13-3\bin\Debug\net8.0-windows\實作13-3.exe
+D:\C#\實作13-3\實作13-3\bin\Debug\net8.0-windows\實作13-3.deps.json
+D:\C#\實作13-3\實作13-3\bin\Debug\net8.0-windows\實作13-3.runtimeconfig.json
+D:\C#\實作13-3\實作13-3\bin\Debug\net8.0-windows\實作13-3.dll
+D:\C#\實作13-3\實作13-3\bin\Debug\net8.0-windows\實作13-3.pdb
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.dll
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\refint\實作13-3.dll
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.pdb
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\實作13-3.genruntimeconfig.cache
+D:\C#\實作13-3\實作13-3\obj\Debug\net8.0-windows\ref\實作13-3.dll
